@@ -165,6 +165,15 @@ b, strong {
     opacity: 0;
   }
 }
+
+.about-image {
+  clip-path: circle();
+}
+
+.about-image img {
+  margin-left: -40px;
+}
+
 .navbar {
   position: fixed;
   top: 0;
