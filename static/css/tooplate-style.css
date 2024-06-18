@@ -486,6 +486,16 @@ b, strong {
   color: #ffc200;
 }
 
+.socials-container ul {
+  list-style: none;
+}
+
+.socials-container li {
+  display: inline-block;
+  margin-right: 30px;
+  font-size: 40px;
+}
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
