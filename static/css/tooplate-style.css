@@ -375,6 +375,14 @@ b, strong {
   margin-left: 15px;
 }
 
+.timeline-info p {
+  text-align: left;
+}
+
+.education-info {
+  font-size: larger;
+}
+
 .skill {
   font-weight: 600;
 }
