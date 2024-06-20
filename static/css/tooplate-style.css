@@ -486,14 +486,24 @@ b, strong {
   color: #ffc200;
 }
 
-.socials-container ul {
-  list-style: none;
+.socials-container .fa-brands {
+  font-size: 40px;
 }
 
-.socials-container li {
-  display: inline-block;
-  margin-right: 30px;
-  font-size: 40px;
+.socials-container .fa-brands:hover {
+  font-size: 45px;
+}
+
+.socials-container .fa-linkedin-in {
+  color: #0077B5;
+}
+
+.socials-container .fa-github {
+  color: #171515;
+}
+
+.socials-container .fa-google-plus-g {
+  color: #db4a39
 }
 
 @media (min-width: 1270px) {
