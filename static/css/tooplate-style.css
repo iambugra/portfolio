@@ -570,6 +570,10 @@ b, strong {
   .navbar-expand-sm .navbar-nav .nav-link {
     padding: 3px 20px;
   }
+  
+  .socials-container li {
+    margin: 0 20px;
+  }
 }
 @media (max-width: 580px) {
 	.animated-info {
@@ -621,5 +625,17 @@ b, strong {
   .social-links li {
     display: inline-block;
     vertical-align: top;
+  }
+
+  .socials-container {
+    display: inline-block;
+  }
+
+  .socials-container ul {
+    display: inline-block;
+  }
+  
+  .socials-container li {
+    margin: 0 0 10px 0;
   }
 }
