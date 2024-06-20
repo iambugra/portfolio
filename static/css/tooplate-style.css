@@ -486,6 +486,20 @@ b, strong {
   color: #ffc200;
 }
 
+.socials-container {
+  display: flex;
+  justify-content: center;
+}
+
+.socials-container ul {
+  display: flex;
+  list-style: none;
+}
+
+.socials-container li {
+  margin: 0 30px;
+}
+
 .socials-container .fa-brands {
   font-size: 40px;
 }
